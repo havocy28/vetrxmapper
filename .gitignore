@@ -1,0 +1,7 @@
+*.json
+is_ab.csv
+is_ab_vic.csv
+new_vic_dict.json
+vic_dict.json
+reg_char_dist.csv
+ASTAG_rated_is_ab.csv

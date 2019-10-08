@@ -1,0 +1,611 @@
+CLASS,Antimicrobial,Medication
+Aminoglycosides,Gentamicin ,EasOtic
+Aminoglycosides,Gentamicin ,Gentam
+Aminoglycosides,Gentamicin ,Gentamax
+Aminoglycosides,Gentamicin ,Optigen
+Aminoglycosides,Gentamicin ,Optigentin
+Aminoglycosides,Gentamicin ,Otomax
+Aminoglycosides,Gentamicin ,Soligental
+Aminoglycosides,Gentamicin ,Topigen
+Aminoglycosides,Gentamicin ,Tri-Otic
+Aminoglycosides,Gentamicin ,Gentavet
+Aminoglycosides,Gentamicin ,Mometamax
+Aminoglycosides,Gentamicin ,Gentasone
+Aminoglycosides,Gentamicin ,Genoptic
+Aminoglycosides,Gentamicin ,Gentocin
+,,
+Aminoglycosides,Amikacin,Amikacin
+Aminoglycosides,Amikacin,
+Aminoglycosides,Tobramycin ,Tobramycin
+Aminoglycosides,Tobramycin ,Tobrex
+Aminoglycosides,Tobramycin ,Tobra-Day
+,,
+Aminoglycosides,Kanamycin,
+,,
+Aminoglycosides,Streptomycin,Scourban
+Aminoglycosides,Streptomycin,VR Sulcin
+,,
+Aminoglycosides,Dihydrostreptomycin,Streptosulcin Forte
+Aminoglycosides,dihydrostreptomycin,Special Formula Forte V
+Aminoglycosides,Neomycin,Amacin
+Aminoglycosides,Neomycin,Apex antibiotic lotion
+Aminoglycosides,Neomycin,Dermapred
+Aminoglycosides,Neomycin,Apex Ear Drops
+Aminoglycosides,Neomycin,Imflamol topical ointment
+Aminoglycosides,Neomycin,Neocort
+Aminoglycosides,Neomycin,Neo-flucort
+Aminoglycosides,Neomycin,Neomycin powder
+Aminoglycosides,Neomycin,Neomycin penicillin
+Aminoglycosides,Neomycin,Neopharm
+Aminoglycosides,Neomycin,Neo-sulcin
+Aminoglycosides,Neomycin,Neotopic H
+Aminoglycosides,Neomycin,Oterna
+Aminoglycosides,Neomycin,Panalog
+Aminoglycosides,Neomycin,Prednoderm
+Aminoglycosides,Neomycin,Scourban
+Aminoglycosides,Neomycin,Tricin eye & ear ointment
+Aminoglycosides,Neomycin,Tricin powder
+Aminoglycosides,Neomycin,Scour-X
+Aminoglycosides,Neomycin,Neoject
+Aminoglycosides,neomycin,Mastalone Blue
+Aminoglycosides,Framycetin,Soframycin
+,,
+Aminoglycosides,Spectinomycin,Spectovet
+Aminoglycosides,Spectinomycin,Linco-Spectin
+,,
+Aminoglycosides,Capreomycin,
+,,
+Aminoglycosides,Paromomycin,
+,,
+Aminoglycosides,Apramycin,Neove
+Carbapenems,Apramycin,Aprapharm
+Carbapenems,Apramycin,Apralan
+,,
+Carbapenems,lmipenem-cilastatin,Primaxin
+,,
+Carbapenems,Meropenem,Merrem
+Carbapenems,Meropenem,Miropenem
+,,
+Carbapenems,Doripenem,Doribax
+,,
+Carbapenems,Ertapenem,Invanz
+,,
+Cephalosporins,Cephalexin,Cephaforte
+Cephalosporins,Cephalexin,Cephalexin
+Cephalosporins,Cephalexin,Kefvet
+Cephalosporins,Cephalexin,Rilexine
+Cephalosporins,Cephalexin,Ceporex
+Cephalosporins,cephalexin,cefalexin
+Cephalosporins,Cephalexin sodium,Solvasol
+Cephalosporins,Cephalexin,Keflex
+,,
+Cephalosporins,Cephalothin,Cefalotin
+Cephalosporins,Cephalothin,Keflin
+Cephalosporins,Cephalothin,Cefalothin
+,,
+Cephalosporins,Cephalonium,
+Cephalosporins,Cephalonium,Cepravin DC
+Cephalosporins,Ceftaroline,Zinforo
+,,
+Cephalosporins,Cefadroxil,duracef
+,,
+Cephalosporins,Cefazolin sodium,Cefazolin
+Cephalosporins,Cefazolin sodium,cephazolin
+Cephalosporins,Cefpodoxime,
+,,
+Cephalosporins,Cefaclor,Aclor
+Cephalosporins,Cefaclor,APO-Cefaclor
+Cephalosporins,Cefaclor,Ceclor
+Cephalosporins,Cefaclor,Karlor
+Cephalosporins,Cefaclor,Keflor
+,,
+Cephalosporins,Cefoxitin,Cefoxitin 
+,,
+Cephalosporins,Cefotetan,
+,,
+Cephalosporins,Cefotaxime,Cefotaxime 
+,,
+Cephalosporins,Ceftiofur,Calefur
+Cephalosporins,Ceftiofur,Excede
+Cephalosporins,Ceftiofur,Excenel 
+Cephalosporins,Ceftiofur,Norocef
+Cephalosporins,Ceftiofur,Cefomax
+Cephalosporins,Ceftiofur,Accent
+Cephalosporins,Cefuroxime,Maxilac LC
+Cephalosporins,Cefuroxime sodium,Cefuroxime sodium
+Cephalosporins,Cefuroxime sodium,Zinnat
+Cephalosporins,Cefuroxime,Cepravin LC
+Cephalosporins,Ceftazidime,Ceftazidime
+Cephalosporins,Ceftazidime,Fortum
+,,
+Cephalosporins,Cefepime,Cefepime
+,,
+Cephalosporins,Cephaparin,Cephaparin
+,,
+Cephalosporins,Ceftriaxone,Ceftriaxone
+,,
+Cephalosporins,Cefovecin,Convenia
+,,
+Chloramphenicol,Chloramphenicol,Chlorasone eye ointment
+Chloramphenicol,Chloramphenicol,Chloroint
+Chloramphenicol,Chloramphenicol,Chloropt
+Chloramphenicol,Chloramphenicol,Chloroptsone
+Chloramphenicol,Chloramphenicol,Optichlor
+Chloramphenicol,Chloramphenicol,Opticin
+Chloramphenicol,Chloramphenicol,Chloramphenicol
+Chloramphenicol,Chloramphenicol,Chlor B
+Chloramphenicol,Chloramphenicol,Chlorsig
+Chloramphenicol,,
+Chloramphenicol,Florfenicol,Nuflor
+Chloramphenicol,Florfenicol,Selectan
+Chloramphenicol,Florfenicol,Norfenicol
+Chloramphenicol,Florfenicol,Florvetol
+Chloramphenicol,Florfenicol,Resflor
+,,
+Fluoroquinolones,Enrofloxacin,Baytril
+Fluoroquinolones,Enrofloxacin,Enrofloxacin
+Fluoroquinolones,Enrofloxacin,Enrotril
+Fluoroquinolones,,
+Fluoroquinolones,Ciprofloxacin hydrochloride,Ciprofloxacin
+Fluoroquinolones,Ciprofloxacin hydrochloride,C-Flox
+Fluoroquinolones,Ciprofloxacin hydrochloride,Cifran
+Fluoroquinolones,Ciprofloxacin hydrochloride,ciproxin ear drops
+Fluoroquinolones,Marbofloxacin,Aurizon
+Fluoroquinolones,Marbofloxacin,Zeniquin
+Fluoroquinolones,Marbofloxacin,Marbofloxacin
+Fluoroquinolones,,
+Fluoroquinolones,Orbifloxacin,Orbax
+Fluoroquinolones,,
+Fluoroquinolones,Danofloxacin,
+Fluoroquinolones,,
+Fluoroquinolones,Difloxacin hydrochloride,Difloxacin
+Fluoroquinolones,,
+Fluoroquinolones,Moxifloxacin,Avelox
+Fluoroquinolones,,
+Fluoroquinolones,Ibafloxacin,Ibafloxacin
+Fluoroquinolones,Ibafloxacin,Ibaflin
+Fluoroquinolones,,
+Fluoroquinolones,Pradofloxacin,Veraflox
+Fluoroquinolones,,
+Fluoroquinolones,Norfloxacin,Norfloxacin
+Fluoroquinolones,Norfloxacin,Nufloxib
+Fluoroquinolones,Norfloxacin,Roxin
+Fluoroquinolones,,
+Fluoroquinolones,Ofloxacin,Ocuflox
+Glycopeptides,,
+Glycopeptides,Vancomycin,Vancomycin
+Glycopeptides,Vancomycin,Vancocin
+Glycopeptides,Vancomycin,Vycin
+Glycopeptides,Vancomycin,Zyvox
+Glycopeptides,,
+Glycopeptides,Teicoplanin,Targocid
+Glycopeptides,Teicoplanin,Teicoplanin
+Macrolides and Lincosamides,,
+Macrolides and Lincosamides,Erythromycin,Erymicin
+Macrolides and Lincosamides,Erythromycin,Erythromycin
+Macrolides and Lincosamides,Erythromycin,Erythrosol
+Macrolides and Lincosamides,Erythromycin,Gallimycin
+Macrolides and Lincosamides,,
+Macrolides and Lincosamides,Tylosin,Bilosin
+Macrolides and Lincosamides,Tylosin,Tylan
+Macrolides and Lincosamides,Tylosin,Tyleco
+Macrolides and Lincosamides,Tylosin,Tylopharm
+Macrolides and Lincosamides,Tylosin,Tylomix
+Macrolides and Lincosamides,Tylosin,Mastylo
+Macrolides and Lincosamides,Tylosin,Tylogran
+Macrolides and Lincosamides,Tylosin,Tylodox
+Macrolides and Lincosamides,Tylosin,Pharmasin
+Macrolides and Lincosamides,,
+Macrolides and Lincosamides,Clarithromycin,Clarithromycin
+Macrolides and Lincosamides,Clarithromycin,Clarac
+Macrolides and Lincosamides,Clarithromycin,Clarihexal
+Macrolides and Lincosamides,Clarithromycin,Clarithro
+Macrolides and Lincosamides,Clarithromycin,Kalixocin
+Macrolides and Lincosamides,Clarithromycin,Klacid
+Macrolides and Lincosamides,,
+Macrolides and Lincosamides,Azithromycin,Azithromycin
+Macrolides and Lincosamides,Azithromycin,Azith
+Macrolides and Lincosamides,Azithromycin,Zedd
+Macrolides and Lincosamides,Azithromycin,Zithromax
+Macrolides and Lincosamides,,
+Macrolides and Lincosamides,Lincomycin hydrochloride,Lincomix
+Macrolides and Lincosamides,Lincomycin hydrochloride,Lincopharm
+Macrolides and Lincosamides,Lincomycin hydrochloride,Linco-Spectin
+Macrolides and Lincosamides,Lincomycin hydrochloride,Spectovet
+Macrolides and Lincosamides,Lincomycin hydrochloride,Abbeylinc
+Macrolides and Lincosamides,Lincomycin hydrochloride,Lincomyl
+Macrolides and Lincosamides,Lincomycin hydrochloride,Linco-Sol
+Macrolides and Lincosamides,Lincomycin,Lincocin
+Macrolides and Lincosamides,Lincomycin,Lincospectin
+Macrolides and Lincosamides,,
+Macrolides and Lincosamides,Clindamycin hydrochloride,Antirobe
+Macrolides and Lincosamides,Clindamycin hydrochloride,Clinacin
+Macrolides and Lincosamides,Clindamycin hydrochloride,Easicline
+Macrolides and Lincosamides,Clindamycin hydrochloride,Clindamycin
+Macrolides and Lincosamides,,
+Macrolides and Lincosamides,Roxithromycin,Roxithromycin
+Macrolides and Lincosamides,Roxithromycin,Biaxsig
+Macrolides and Lincosamides,Roxithromycin,Roxar
+Macrolides and Lincosamides,Roxithromycin,Rulide
+Macrolides and Lincosamides,,
+Macrolides and Lincosamides,Tulathromycin,Draxxin
+Macrolides and Lincosamides,,
+Macrolides and Lincosamides,Clindamycin phosphate,Zindaclin
+Macrolides and Lincosamides,,
+Macrolides and Lincosamides,Oleandomycin,
+Macrolides and Lincosamides,Oleandomycin,Mastalone
+Macrolides and Lincosamides,oleandomycin,Mastalone Blue
+Macrolides and Lincosamides,Tilmicosin,Tilmicabs
+Macrolides and Lincosamides,Tilmicosin,Tilmax
+Macrolides and Lincosamides,Tilmicosin,Tilmovet
+Macrolides and Lincosamides,Tilmicosin,Pulmotil
+Macrolides and Lincosamides,Tilmicosin,Micotil
+Macrolides and Lincosamides,Tilmicosin,Tilmix
+Macrolides and Lincosamides,,
+Macrolides and Lincosamides,Kitasamycin,Trubin
+,,
+Nitroirnidazoles,Metronidazole,Metrin
+Nitroirnidazoles,Metronidazole,Metronidazole
+Nitroirnidazoles,Metronidazole,Flagyl
+Nitroirnidazoles,Metronidazole,Metrogyl
+Nitroirnidazoles,Tinidazole,Fasigyn
+Nitroirnidazoles,Tinidazole,Simplotan
+,,
+Nitroirnidazoles,Spiramycin,Stomorgyl
+,,
+Nitroirnidazoles,Ronidazole,Ronivet
+Nitroirnidazoles,Ronidazole,Turbosole
+,,
+Nitroirnidazoles,Dimetridazole,Emtryl
+,,
+Oxazolidinones ,Linezolid,Zyvox
+,,
+Penicillins,Flucloxacillin,APO-Flucloxacillin
+Penicillins,Flucloxacillin,DBL Flocloxacillin Sodium powder
+Penicillins,Flucloxacillin,Flopen oral capsules
+Penicillins,Flucloxacillin,Flubiclox powder
+Penicillins,Flucloxacillin,Flucil oral liquid
+Penicillins,Flucloxacillin,Staphylex capsules
+,,
+Penicillins,Penicillin,BenPen Powder for injection
+,,
+Penicillins,Penethamate hydriodide,Yodimaspin
+Penicillins,Penethamate hydriodide,Mamyzin
+,,
+Penicillins,Procaine penicillin,Ultrapen
+Penicillins,Procaine penicillin,propercillin
+Penicillins,Procaine penicillin,Bomacillin
+Penicillins,Procaine penicillin,Dopharma penject LA
+Penicillins,Procaine penicillin,Norocillin
+Penicillins,Procaine penicillin,Duplocillin Procaine
+Penicillins,Procaine penicillin,Neomycin penicillin
+Penicillins,Procaine penicillin,Benacillin 
+,,
+Penicillins,Benzathine penicillin,Dopharm penject 
+Penicillins,Benzathine penicillin,Duplocillin Procaine & Benzathine 
+Penicillins,Benzathine penicillin,Norocillin LA
+Penicillins,Benzathine penicillin,Bomacillin LA
+,,
+Penicillins,Phenoxymethyl penicillin,Abocillin
+,,
+Penicillins,Ampicillin sodium,Ampicillin Trihydrate
+Penicillins,Ampicillin sodium,Ampicyn
+Penicillins,Ampicillin sodium,Austrapen
+Penicillins,Ampicillin sodium,Ibimicyn
+Penicillins,Ampicillin,Ampicillin
+Penicillins,sulbactam,sulbactam
+Penicillins,Amoxycillin,Amoxycillin
+Penicillins,Amoxycillin,amoxicillin
+Penicillins,Amoxycillin,Betamox
+Penicillins,Amoxycillin,Abbeymox
+Penicillins,Amoxycillin,Bomox
+Penicillins,Amoxycillin,Moxylan
+Penicillins,Amoxycillin,Sol-U-Mox
+Penicillins,Amoxycillin,Vetrimoxin
+Penicillins,Amoxycillin,Purimox
+Penicillins,Amoxycillin,Amoxi-Sol
+Penicillins,Amoxycillin,Bimoxyl
+Penicillins,Amoxycillin,Amoxygect
+,,
+Penicillins,Amoxycillin-clavulanate,Amoxyclav
+Penicillins,Amoxycillin-clavulanate,Clavubactin
+Penicillins,Amoxycillin-clavulanate,Clavulox
+Penicillins,Amoxycillin-clavulanate,Juroclav
+Penicillins,Amoxycillin-clavulanate,Noroclav
+Penicillins,Amoxyclav,Clavulox LC
+Penicillins,Ticarcillin disodium,
+,,
+Penicillins,Ticarcillin-clavulanate,Timentin
+,,
+Penicillins,Piperacillin sodium,
+,,
+Penicillins,Piperacillin-tazobactam,PiperTaz
+Penicillins,Piperacillin-tazobactam,Tazocin
+Penicillins,Piperacillin-tazobactam,Tazopip
+,,
+Penicillins,Cloxacillin,Opticlox eye ointment
+Penicillins,Cloxacillin,Orbenin eye ointment
+Penicillins,Cloxacillin,Coopers pinkeye ointment
+Penicillins,Cloxacillin,Opticillin eye ointment
+Penicillins,Cloxicillin,Elaclox DC
+Penicillins,Cloxicillin,Juraclox DC
+Penicillins,Cloxicillin,Noroclox DC
+Penicillins,Cloxicillin,Orbenin enduro
+Penicillins,Cloxicillin,Orbenin LC
+Penicillins,Cloxacillin/Ampicillin,Ampiclox DC
+Penicillins,Cloxacillin/Ampicillin,Bovaclox DC
+Penicillins,Cloxicillin,Noroclox LC
+Penicillins,Cloxacillin/Ampicillin,Lactaclox LC
+Penicillins,Cloxacillin/Ampicillin,Ampiclox LC
+Penicillins,Amoxyclav,Clavet LC
+Penicillins,Cloxacillin/Ampicillin,Lactaclox LC
+Penicillins,Cloxacillin/Ampicillin,Ampiclox LC
+Penicillins,Cloxicillin,Noroclox LC
+Rifamycins,Rifampin,Rifadin
+Rifamycins,Rifampin,Rimycin
+,,
+Rifamycins,Rifabutin,
+,,
+Rifamycins,Rifaximin,
+,,
+Tetracyclines,Tetracycline  ,Bio-tet
+Tetracyclines,Tetracycline  ,Aquari-cycline
+Tetracyclines,Tetracycline  ,Aristopet oral antibiotic
+,,
+Tetracyclines,Oxytetracycline,oxytet 
+Tetracyclines,Oxytetracycline,Alamycin
+Tetracyclines,Oxytetracycline,Bivatop
+Tetracyclines,Oxytetracycline,Engamycin
+Tetracyclines,Oxytetracycline,OTC
+Tetracyclines,Oxytetracycline,Oxy-Eco
+Tetracyclines,Oxytetracycline,Oxymav
+Tetracyclines,Oxytetracycline,Oxytet
+Tetracyclines,Oxytetracycline,Terramycin
+Tetracyclines,Oxytetracycline,Tetravet
+Tetracyclines,Oxytetracycline,Utozyme 
+Tetracyclines,Oxytetracycline,Hexasol
+Tetracyclines,Oxytetracycline,Tetracin
+Tetracyclines,Oxytetracycline,Mastalone Blue
+Tetracyclines,Minocycline,Akamin
+Tetracyclines,Minocycline,Minomycin
+,,
+Tetracyclines,Chlortetracycline,CTC
+Tetracyclines,Chlortetracycline,Aurofac
+Tetracyclines,Chlortetracycline,Triple C
+Tetracyclines,Chlortetracycline,Chloro-Sol
+Tetracyclines,Chlortetracycline,Aristopet avicycline C oral
+Tetracyclines,Chlortetracycline,Aureomycin
+Tetracyclines,Chlortetracycline,Chlortet
+Tetracyclines,Chlortetracycline,Vetfarm triple C
+Tetracyclines,Chlortetracycline,Tricon
+,,
+Tetracyclines,Doxycycline,Doxycycline
+Tetracyclines,Doxycycline,VibraVet
+Tetracyclines,Doxycycline,Apex Doxy
+Tetracyclines,Doxycycline,Caledoxy
+Tetracyclines,Doxycycline,Cipdoxy
+Tetracyclines,Doxycycline,Doxyvet
+Tetracyclines,,
+Tetracyclines,Tigecycline,Tygacil
+,,
+Trimethoprim-sulfonamides ,Sulfadimethoxine,
+,,
+Trimethoprim-sulfonamides ,Sulphadimidine/Sulphadiazine,Scourban
+Trimethoprim-sulfonamides ,Sulphadimidine/Sulphadiazine,Scour-X Oral
+Trimethoprim-sulfonamides ,Sulphadimidine/Sulphadiazine,Tri-Sulfa tabs
+Trimethoprim-sulfonamides ,Sulphadimidine/Sulphadiazine,Neosulcin scour tabs
+Trimethoprim-sulfonamides ,Sulphadimidine/Sulphadiazine,Elliott's Sulpha D
+Trimethoprim-sulfonamides ,Sulphadimidine/Sulphadiazine,Baytril Otic
+,,
+Trimethoprim-sulfonamides ,Sulfacetamide,Amacin eye & ear ointment
+,,
+Trimethoprim-sulfonamides ,Sulfadoxine-pyrimethamine,
+Trimethoprim-sulfonamides ,,
+Trimethoprim-sulfonamides ,Proguanil,Malarone
+Trimethoprim-sulfonamides ,,
+Trimethoprim-sulfonamides ,Sulfaquinoxaline,Sulpha-Quin
+Trimethoprim-sulfonamides ,Sulfaquinoxaline,Solquin
+Trimethoprim-sulfonamides ,,
+Trimethoprim-sulfonamides ,Sulfamerazine,Tri-Sulfa tabs
+Trimethoprim-sulfonamides ,Sulfamerazine,Inca Sulpha 3
+Trimethoprim-sulfonamides ,,
+Trimethoprim-sulfonamides ,Sulfathiazole,Inca Sulpha 3
+Trimethoprim-sulfonamides ,,
+Trimethoprim-sulfonamides ,Phthalylsulfathiazole,Ensal
+Trimethoprim-sulfonamides ,,
+Trimethoprim-sulfonamides ,Trimethoprim-sulfamethoxazole,
+Trimethoprim-sulfonamides ,,
+Trimethoprim-sulfonamides ,Ormetoprim-sulfadimethoxime,
+Trimethoprim-sulfonamides ,,
+Trimethoprim-sulfonamides ,Trimethoprim-sulfadiazine,trimsul
+Trimethoprim-sulfonamides ,Trimethoprim-sulfadiazine,TMPS
+Trimethoprim-sulfonamides ,Trimethoprim-sulfadiazine,Bronchopulmin
+Trimethoprim-sulfonamides ,Trimethoprim-sulfadiazine,Sulphatrim
+Trimethoprim-sulfonamides ,Trimethoprim-sulfadiazine,Tribactril 48
+Trimethoprim-sulfonamides ,Trimethoprim-sulfadiazine,Tribrissin
+Trimethoprim-sulfonamides ,Trimethoprim-sulfadiazine,Trimidine
+Trimethoprim-sulfonamides ,Trimethoprim-sulfadiazine,Trisoprim
+Trimethoprim-sulfonamides ,Trimethoprim-sulfadiazine,Sulpha B
+Trimethoprim-sulfonamides ,Trimethoprim-sulfadiazine,Supha T
+Trimethoprim-sulfonamides ,Trimethoprim-sulfadiazine,Tridiazine oral paste
+Trimethoprim-sulfonamides ,Trimethoprim-sulfadiazine,Trimethotab
+Trimethoprim-sulfonamides ,Trimethoprim-sulfadiazine,Trizine
+Trimethoprim-sulfonamides ,Trimethoprim-sulfadiazine,Keymix
+Trimethoprim-sulfonamides ,,
+Trimethoprim-sulfonamides ,Trimethoprim-sulfadimidine,Amphoprim S
+Trimethoprim-sulfonamides ,Trimethoprim-sulfadimidine,Bromo TMPS
+Trimethoprim-sulfonamides ,Trimethoprim-sulfadimidine,Bromotrimidine
+Trimethoprim-sulfonamides ,Trimethoprim-sulfadimidine,CaleSulpha-T
+Trimethoprim-sulfonamides ,Trimethoprim-sulfadimidine,Mucoprim
+Trimethoprim-sulfonamides ,Trimethoprim-sulfadimidine,Sulprim
+Trimethoprim-sulfonamides ,Trimethoprim-sulfadimidine,Triprim
+Trimethoprim-sulfonamides ,Trimethoprim-sulfadimidine,BTS oral powder
+Trimethoprim-sulfonamides ,,
+Trimethoprim-sulfonamides ,Trimethoprim-sulfadoxine,Bimotrim
+Trimethoprim-sulfonamides ,Trimethoprim-sulfadoxine,TMPS 240 injection
+Trimethoprim-sulfonamides ,Trimethoprim-sulfadoxine,Tribactril S
+Trimethoprim-sulfonamides ,Trimethoprim-sulfadoxine,Trivetrin
+Trimethoprim-sulfonamides ,Trimethoprim-sulfadoxine,Tridoxine
+Trimethoprim-sulfonamides ,Trimethoprim-sulfadoxine,Trisovet
+,,
+Other antibacterial drugs,Bacitracin,BMD
+,,
+Other antibacterial drugs,Gramicidin,Kenacomb
+Other antibacterial drugs,Gramicidin,Otocomb
+Other antibacterial drugs,Gramicidin,Otodex
+Other antibacterial drugs,Gramicidin,Sofradex
+,,
+Other antibacterial drugs,Thiostrepton,Panalog
+,,
+Other antibacterial drugs,Mupirocin,Bactroban ointments
+,,
+Other antibacterial drugs,Fusidic Acid,Canaural
+Other antibacterial drugs,Fusidic Acid,Conoptal
+Other antibacterial drugs,Fusidic Acid,Fuciderm
+Other antibacterial drugs,Fusidic Acid,Isaderm carbomer gel
+Other antibacterial drugs,,
+Other antibacterial drugs,Polymyxin B,Amacin
+Other antibacterial drugs,Polymyxin B,Auracol ear & skin
+Other antibacterial drugs,Polymyxin B,Dermotic 
+Other antibacterial drugs,Polymyxin B,Apex ear drops
+Other antibacterial drugs,Polymyxin B,Framixin
+Other antibacterial drugs,Polymyxin B,Opticin
+Other antibacterial drugs,Polymyxin B,PMP ear suspension
+Other antibacterial drugs,Polymyxin B,Surolan
+Other antibacterial drugs,Polymyxin B,Tricin eye & ear ointment
+Other antibacterial drugs,Polymyxin B,Tricin powder
+Other antibacterial drugs,,
+Other antibacterial drugs,Colistin,Colistin
+Other antibacterial drugs,,
+Other antibacterial drugs,Nitrofurantoin,Macrodantin
+Other antibacterial drugs,,
+Other antibacterial drugs,Aztreonam,Azactam
+Other antibacterial drugs,Aztreonam,Cayston
+Other antibacterial drugs,,
+Other antibacterial drugs,Quinupristin/Dalfopristin,
+Other antibacterial drugs,,
+Other antibacterial drugs,Pristinamycin,
+Other antibacterial drugs,,
+Other antibacterial drugs,Sodium fusidate,Fucidin
+Other antibacterial drugs,,
+Other antibacterial drugs,Fosfomycin,
+Other antibacterial drugs,,
+Other antibacterial drugs,Daptomycin,Cubicin
+,,
+Antimycobacterial Drugs,Clofazimine,
+Antimycobacterial Drugs,,
+Antimycobacterial Drugs,Ethambutol,Myambutol
+Antimycobacterial Drugs,,
+Antimycobacterial Drugs,lsoniazid,Isoniazid
+Antimycobacterial Drugs,,
+Antimycobacterial Drugs,Cycloserine,
+Antimycobacterial Drugs,p-aminosalicyclic acide,
+Antimycobacterial Drugs,prothionamide,
+,,
+Other Antiprotozoal Drugs,Allopurinol,Allopurinol
+Other Antiprotozoal Drugs,Allopurinol,Allosig
+Other Antiprotozoal Drugs,Allopurinol,Progout
+Other Antiprotozoal Drugs,Allopurinol,Zyloprim
+Other Antiprotozoal Drugs,,
+Other Antiprotozoal Drugs,Amprolium,Amprolium
+Other Antiprotozoal Drugs,Amprolium,Coccivet
+Other Antiprotozoal Drugs,Amprolium,Keystat
+Other Antiprotozoal Drugs,,
+Other Antiprotozoal Drugs,Atovaquone,Malarone
+Other Antiprotozoal Drugs,Atovaquone,Wellvone
+Other Antiprotozoal Drugs,,
+Other Antiprotozoal Drugs,Decoquinate,Deccox
+Other Antiprotozoal Drugs,,
+Other Antiprotozoal Drugs,Benznidazole,
+Other Antiprotozoal Drugs,,
+Other Antiprotozoal Drugs,Diminazene aceturate ,
+Other Antiprotozoal Drugs,,
+Other Antiprotozoal Drugs,Fenbendazole,WSD Combination
+Other Antiprotozoal Drugs,Fenbendazole,Combo LV
+Other Antiprotozoal Drugs,Fenbendazole,Duocare
+Other Antiprotozoal Drugs,Fenbendazole,Fenbendazole
+Other Antiprotozoal Drugs,Fenbendazole,Fensolve
+Other Antiprotozoal Drugs,Fenbendazole,NuCombo
+Other Antiprotozoal Drugs,Fenbendazole,Panacur
+Other Antiprotozoal Drugs,Fenbendazole,Paraban
+Other Antiprotozoal Drugs,Fenbendazole,Rametin
+Other Antiprotozoal Drugs,Fenbendazole,Switch 
+Other Antiprotozoal Drugs,Fenbendazole,Trooper ninja low volume comination drench
+Other Antiprotozoal Drugs,Fenbendazole,Fenbender
+Other Antiprotozoal Drugs,Fenbendazole,Bob Martin all wormer
+Other Antiprotozoal Drugs,Fenbendazole,Pharmachem D-worm
+Other Antiprotozoal Drugs,Fenbendazole,Aristopet animal health wormer for reptiles
+Other Antiprotozoal Drugs,Fenbendazole,Fenpral
+Other Antiprotozoal Drugs,Fenbendazole,Combimax
+Other Antiprotozoal Drugs,Fenbendazole,Zantel
+Other Antiprotozoal Drugs,Fenbendazole,Virbac combat duo
+Other Antiprotozoal Drugs,Fenbendazole,Salvo
+Other Antiprotozoal Drugs,,
+Other Antiprotozoal Drugs,Imidocarb dipropionate,Imidox
+Other Antiprotozoal Drugs,Imidocarb dipropionate,Imizol
+Other Antiprotozoal Drugs,,
+Other Antiprotozoal Drugs,Nitazoxanide ,
+Other Antiprotozoal Drugs,,
+Other Antiprotozoal Drugs,Paramomycin,
+Other Antiprotozoal Drugs,,
+Other Antiprotozoal Drugs,Ponazuril ,Marquis
+Other Antiprotozoal Drugs,,
+Other Antiprotozoal Drugs,Pyrimethamine,Daraprim
+Other Antiprotozoal Drugs,,
+Other Antiprotozoal Drugs,Meglumine antimonate ,
+Other Antiprotozoal Drugs,,
+Other Antiprotozoal Drugs,Miltefosine,
+Other Antiprotozoal Drugs,,
+Other Antiprotozoal Drugs,Toltrazuril,Baycox
+Other Antiprotozoal Drugs,Toltrazuril,Totracox
+,,
+Antifungal Drugs,Amphotericin B deoxycholate,Abelcet
+Antifungal Drugs,Amphotericin B deoxycholate,AmBisome
+Antifungal Drugs,Amphotericin B deoxycholate,Fungilin
+,,
+Antifungal Drugs,Lipid complexed Amphotericin B,
+,,
+Antifungal Drugs,Ketoconazole,DaktaGold
+Antifungal Drugs,Ketoconazole,Nizoral
+Antifungal Drugs,Ketoconazole,Sebizole
+,,
+Antifungal Drugs,Fluconazole,Fluconazole
+Antifungal Drugs,Fluconazole,Canesoral
+Antifungal Drugs,Fluconazole,Diflucan
+,,
+Antifungal Drugs,Itraconazole,Lozanoc
+Antifungal Drugs,Itraconazole,Sporanox
+,,
+Antifungal Drugs,Clotrimazole,Aurizon ear drops
+Antifungal Drugs,Clotrimazole,Otomax
+Antifungal Drugs,Clotrimazole,Tri-Otic
+Antifungal Drugs,Clotrimazole,Mometamax
+Antifungal Drugs,Clotrimazole,Canesten
+Antifungal Drugs,Miconazole,Auracol ear & skin
+Antifungal Drugs,Miconazole,Dermotic
+Antifungal Drugs,Miconazole,EasOtic
+Antifungal Drugs,Miconazole,Fungafite
+Antifungal Drugs,Miconazole,Malaseb
+Antifungal Drugs,Miconazole,PMP ear suspension
+Antifungal Drugs,Miconazole,Surolan
+Antifungal Drugs,Miconazole,Topizole
+Antifungal Drugs,Miconazole,Medicoat
+Antifungal Drugs,Miconazole,Sebolyse
+Antifungal Drugs,Miconazole,Conofite
+Antifungal Drugs,,
+Antifungal Drugs,Voriconazole,Vfend
+Antifungal Drugs,,
+Antifungal Drugs,Posaconazole,Noxafil
+Antifungal Drugs,,
+Antifungal Drugs,Flucytosine,Ancotil
+Antifungal Drugs,,
+Antifungal Drugs,Griseofulvin,Grisovin
+Antifungal Drugs,,
+Antifungal Drugs,Terbinafine,Tamsil
+Antifungal Drugs,Terbinafine,Lemisil
+Antifungal Drugs,Terbinafine,Pharmisil
+Antifungal Drugs,Terbinafine,Terbinafine
+Antifungal Drugs,Terbinafine,Sebifin
+Antifungal Drugs,Terbinafine,SolvEasy
+Antifungal Drugs,Terbinafine,lamisil
+Antifungal Drugs,Nystatin,Mycostatin

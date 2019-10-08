@@ -1,0 +1,126 @@
+Importance,Class,Ingredient
+2,ß-lactamase inhibitor combinations,"Amoxicillin with clavulanic acid, amoxycillin-clavulanate"
+3,ß-lactamase inhibitor combinations,"Piperacillin with tazobactam, Ticarcillin with clavulanic acid, ticarcillin-clavulanate, ticarcillin disodium"
+3,ß-lactamase inhibitor combinations,Ceftolozane with tazobactam
+1,Aminoglycosides / Aminocyclitols,Neomycin
+1,Aminoglycosides / Aminocyclitols,Framycetin
+2,Aminoglycosides / Aminocyclitols,"Gentamicin, tobramycin"
+3,Aminoglycosides / Aminocyclitols,Amikacin
+2,Aminoglycosides / Aminocyclitols,Spectinomycin
+1,Aminoglycosides / Aminocyclitols,Streptomycin
+1,Aminoglycosides / Aminocyclitols,Dihydrostreptomycin
+1,Aminoglycosides / Aminocyclitols,Paromomycin
+2,Aminoglycosides / Aminocyclitols,Apramycin
+1,Amphenicols,Chloramphenicol
+1,Amphenicols,Florfenicol
+3,Antileprotics,Clofazimine
+3,Antileprotics,Dapsone
+3,Antimycobacterials,Isoniazid
+3,Antimycobacterials,Ethambutol
+3,Antimycobacterials,Pyrazinamide
+3,Antimycobacterials,Cycloserine
+3,Antimycobacterials,p-aminosalicylic acid
+3,Antimycobacterials,Prothionamide
+3,Antimycobacterials,Capreomycin
+1,Arsenicals,"Roxarsone, 3-nitro-4-hydroxyphenylarsonic acid, sodium arsanilate"
+1,Bambermycins,Flavophospholipol (bambermycin)
+1,Bicozamycins,Bicozamycin (bicyclomycin)
+1,Coumermycins,Novobiocin
+3,Carbapenems,"Imipenem, meropenem"
+3,Carbapenems,Ertapenem
+2,1st Generation Cephalosporins,"Cephalothin, Cefalexin, cefalotin, cefazolin sodium, cephalexin sodium"
+2,1st Generation Cephalosporins,Cephapirin
+2,1st Generation Cephalosporins,Cephalonium
+2,2nd Generation Cephalosporins,"Cefaclor, cefuroxime-axetil"
+3,3rd Generation Cephalosporins,Ceftriaxone
+3,3rd Generation Cephalosporins,Cefotaxime
+3,3rd Generation Cephalosporins,Ceftiofur
+3,3rd Generation Cephalosporins,Cefovecin
+3,4th Generation Cephalosporins,Ceftazidime and cefepime
+3,Anti-MRSA Cephalosporins,Ceftaroline
+2,Cephamycins,Cefoxitin
+3,Fosfomycins,Fosfomycin
+3,Fusidanes,"Sodium fusidate, fusidic acid"
+3,Glycopeptides,Vancomycin
+3,Glycopeptides,Teicoplanin
+3,Glycylcyclines,Tigecycline
+1,Ionophores,"Lasalocid
+ Maduramicin
+ Monensin
+ Narasin
+ Salinomycin
+ Semduramicin"
+1,Lantibiotics,Nisin
+2,Lincosamides,"Clindamycin, lincomycin, clindamycin hydrochloride"
+3,Lipopeptides,Daptomycin
+3,Macrocyclic lactones,Fidaxomicin
+1,Macrolides,Azithromycin
+1,Macrolides,Clarithromycin
+1,Macrolides,"Erythromycin, roxithromycin"
+1,Macrolides,Spiramycin
+1,Macrolides,Kitasamycin
+1,Macrolides,Oleandomycin
+1,Macrolides,Tilmicosin
+1,Macrolides,Tulathromycin
+1,Macrolides,Tylosin
+3,Monobactams,Aztreonam
+3,Nitrofurans,Nitrofurantoin
+3,Nitrofurans,Furazolidone
+3,Nitrofurans,Nitrofurazone
+2,Nitroimidazoles,"Metronidazole, tinidazole"
+2,Nitroimidazoles,Dimetridazole
+2,Nitroimidazoles,Ronidazole
+1,Orthosomycins,Avilamycin
+3,Oxazolidinones,Linezolid
+2,Antistaphylococcal penicillins,"Flucloxacillin, dicloxacillin"
+2,Antistaphylococcal penicillins,"Cloxacillin, cloxicillin"
+1,Moderate-spectrum penicillins,"Amoxicillin, ampicillin, amoxycillin, amoxycillin, ampicillin sodium"
+1,Narrow-spectrum penicillins,"Benzylpenicillin (pen G), phenoxymethylpenicillin (pen V)"
+1,Narrow-spectrum penicillins,Procaine penicillin
+1,Narrow-spectrum penicillins,Benzathine penicillin
+1,Narrow-spectrum penicillins,Penethamate hydriodide
+2,Broad-spectrum penicillins,Piperacillin
+1,Pleuromutilins,Tiamulin
+1,Pleuromutilins,Retapamulin
+3,Polymyxins,Polymyxin B
+3,Polymyxins,Colistin
+1,Polypeptides,"Bacitracin, gramicidin"
+1,Polypeptides,Thiostrepton
+2,Pseudomonic acids,Mupirocin
+3,Quinolones,Norfloxacin
+3,Quinolones,"Ciprofloxacin, ciprofloxacin hydrochloride"
+3,Quinolones,Moxifloxacin
+3,Quinolones,Ofloxacin
+3,Quinolones,Levofloxacin
+3,Quinolones,Enrofloxacin
+3,Quinolones,Ibafloxacin
+3,Quinolones,Marbofloxacin
+3,Quinolones,Orbifloxacin
+3,Quinolones,Pradofloxacin
+1,Quinoxalines,"Carbadox, Olaquindox"
+3,Rifamycins,Rifampicin (Rifampin)
+3,Rifamycins,Rifabutin
+3,Rifamycins,Rifaximin
+1,Sulfonamides and dihydrofolate reductase inhibitors,Sulfadiazine
+1,Sulfonamides and dihydrofolate reductase inhibitors,Silver sulfadiazine
+1,Sulfonamides and dihydrofolate reductase inhibitors,Trimethoprim
+2,Sulfonamides and dihydrofolate reductase inhibitors,Sulfamethoxazole-trimethoprim (co-trimoxazole)
+2,Sulfonamides and dihydrofolate reductase inhibitors,Sulfadoxine-pyrimethamine
+2,Sulfonamides and dihydrofolate reductase inhibitors,Sulfadoxine-trimethoprim
+2,Sulfonamides and dihydrofolate reductase inhibitors,"Sulfadiazine-trimethoprim, trimethoprim-sulfadiazine"
+2,Sulfonamides and dihydrofolate reductase inhibitors,"Sulfadimidine-trimethoprim, trimethoprim-sulfadimidine"
+1,Sulfonamides and dihydrofolate reductase inhibitors,Proguanil
+1,Sulfonamides and dihydrofolate reductase inhibitors,Pyrimethamine
+1,Sulfonamides and dihydrofolate reductase inhibitors,Sulfacetamide
+1,Sulfonamides and dihydrofolate reductase inhibitors,Sulfadimidine
+1,Sulfonamides and dihydrofolate reductase inhibitors,Sulfaquinoxaline
+1,Sulfonamides and dihydrofolate reductase inhibitors,Sulfamerazine
+1,Sulfonamides and dihydrofolate reductase inhibitors,Sulfathiazole
+1,Sulfonamides and dihydrofolate reductase inhibitors,Phthalylsulfathiazole
+1,Sulfonamides and dihydrofolate reductase inhibitors,Sulfathiazole
+3,Streptogramins,Quinupristin with dalfopristin
+3,Streptogramins,Pristinamycin
+3,Streptogramins,Virginiamycin
+1,Tetracyclines,"Tetracycline, doxycycline, minocycline"
+1,Tetracyclines,Chlortetracycline
+1,Tetracyclines,Oxytetracycline
