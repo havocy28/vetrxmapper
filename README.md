@@ -33,5 +33,3 @@ https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230049
 
 
 
-
-Please leave comments or email me: brian.hur@gmail.com if you have any questions on usage.
