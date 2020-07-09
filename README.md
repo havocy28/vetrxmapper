@@ -14,6 +14,8 @@ For details on usage, please see the papers:
   publisher={Wiley Online Library}
 }
 
+https://onlinelibrary.wiley.com/doi/abs/10.1111/avj.12836
+
 
 @article{hur2020describing,
   title={Describing the antimicrobial usage patterns of companion animal veterinary practices; free text analysis of more than 4.4 million consultation records},
